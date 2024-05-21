@@ -5,3 +5,15 @@
     font-family: "inter", sans-serif;
 
 }
+
+:root{
+
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6 rem;
+}
+.resultado{
+    padding-block: 2.4 rem;
+}
